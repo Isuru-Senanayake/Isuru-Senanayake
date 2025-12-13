@@ -116,7 +116,7 @@ console.log("Thanks for visiting my profile! Let's connect and build something a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isuru-Senanayake&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Isuru-Senanayake&theme=dracula&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
